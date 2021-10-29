@@ -5,7 +5,9 @@ Page 2 : Show a list of friends for people who are not active (isActive: false) 
 
 ## Description
 
-I have use Reactjs for Frontend. App is main Component in which I am rendering components Page-1 and Page-2. Data is inside source folder named as people.json. 
+Tech Stack : Reactjs for Frontend.
+
+App is main Component in which I am rendering components Page-1 and Page-2. Data is inside source folder named as people.json. 
 
 Page-1 Component : I have used functional component. I am storing value of slider using useState hook. And on the basis of value, data of people is being filtered. Then filtered data is displayed using map function.
 
