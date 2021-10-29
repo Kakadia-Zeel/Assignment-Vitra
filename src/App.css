@@ -38,6 +38,13 @@ form span {
 
 }
 
+.no-data{
+  margin-top: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(15, 13, 13);
+}
+
 table {
   font-family: 'Raleway',sans-serif;
   border-collapse: collapse;

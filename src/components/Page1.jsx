@@ -33,7 +33,7 @@ function Page1() {
                 <span>$4,000</span>
                 <br />
                 <div className="currValue">Current Value: ${amount}</div>
-                <table>
+               {people.length!==0 ? <table>
                     <tr>
                        <th>Name</th>
                        <th>Balance</th>
@@ -48,7 +48,7 @@ function Page1() {
                         </tr>
                        
                     )}
-                </table>
+                </table>: <div className="no-data">No Data Available 🚩 </div>}
             </form>
         </div>
     )
