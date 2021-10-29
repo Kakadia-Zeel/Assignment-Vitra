@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Kakadia-Zeel/Assignment-Vitra/static/css/main.de933ed3.chunk.css",
-    "main.js": "/Kakadia-Zeel/Assignment-Vitra/static/js/main.63d1e142.chunk.js",
-    "main.js.map": "/Kakadia-Zeel/Assignment-Vitra/static/js/main.63d1e142.chunk.js.map",
-    "runtime-main.js": "/Kakadia-Zeel/Assignment-Vitra/static/js/runtime-main.dcac27a1.js",
-    "runtime-main.js.map": "/Kakadia-Zeel/Assignment-Vitra/static/js/runtime-main.dcac27a1.js.map",
-    "static/js/2.82cbcd4d.chunk.js": "/Kakadia-Zeel/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js",
-    "static/js/2.82cbcd4d.chunk.js.map": "/Kakadia-Zeel/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js.map",
-    "static/js/3.04a1e9af.chunk.js": "/Kakadia-Zeel/Assignment-Vitra/static/js/3.04a1e9af.chunk.js",
-    "static/js/3.04a1e9af.chunk.js.map": "/Kakadia-Zeel/Assignment-Vitra/static/js/3.04a1e9af.chunk.js.map",
-    "index.html": "/Kakadia-Zeel/Assignment-Vitra/index.html",
-    "static/css/main.de933ed3.chunk.css.map": "/Kakadia-Zeel/Assignment-Vitra/static/css/main.de933ed3.chunk.css.map",
-    "static/js/2.82cbcd4d.chunk.js.LICENSE.txt": "/Kakadia-Zeel/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js.LICENSE.txt"
+    "main.css": "/Assignment-Vitra/static/css/main.de933ed3.chunk.css",
+    "main.js": "/Assignment-Vitra/static/js/main.63d1e142.chunk.js",
+    "main.js.map": "/Assignment-Vitra/static/js/main.63d1e142.chunk.js.map",
+    "runtime-main.js": "/Assignment-Vitra/static/js/runtime-main.3e8ab6da.js",
+    "runtime-main.js.map": "/Assignment-Vitra/static/js/runtime-main.3e8ab6da.js.map",
+    "static/js/2.82cbcd4d.chunk.js": "/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js",
+    "static/js/2.82cbcd4d.chunk.js.map": "/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js.map",
+    "static/js/3.04a1e9af.chunk.js": "/Assignment-Vitra/static/js/3.04a1e9af.chunk.js",
+    "static/js/3.04a1e9af.chunk.js.map": "/Assignment-Vitra/static/js/3.04a1e9af.chunk.js.map",
+    "index.html": "/Assignment-Vitra/index.html",
+    "static/css/main.de933ed3.chunk.css.map": "/Assignment-Vitra/static/css/main.de933ed3.chunk.css.map",
+    "static/js/2.82cbcd4d.chunk.js.LICENSE.txt": "/Assignment-Vitra/static/js/2.82cbcd4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcac27a1.js",
+    "static/js/runtime-main.3e8ab6da.js",
     "static/js/2.82cbcd4d.chunk.js",
     "static/css/main.de933ed3.chunk.css",
     "static/js/main.63d1e142.chunk.js"
